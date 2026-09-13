@@ -11,9 +11,9 @@ Ingeniero Industrial y Civil, con experiencia en operaciones, mantenimiento, ges
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 **Certificaciones**
-- Fundamentos de Git en Cloud
-- Python (básico–intermedio)
-- SQL desde cero + Google Cloud
+- Git en Cloud
+- Python 
+- SQL
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevinsrm31&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinsrm31&layout=compact&theme=tokyonight&hide_border=true)
