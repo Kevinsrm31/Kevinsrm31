@@ -27,4 +27,4 @@ Ingeniero Industrial y Civil, con experiencia en operaciones, mantenimiento, ges
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kevinsrm31&theme=tokyo-night&hide_border=true)
 
-📫 [LinkedIn](https://www.linkedin.com/in/kevin-steven-reyes-morocho) · 📝 [Medium](https://medium.com/@kevinsrm19)
+📫 [LinkedIn](https://www.linkedin.com/in/kevin-steven-reyes-morocho-/) · 📝 [Medium](https://medium.com/@kevinsrm19)
