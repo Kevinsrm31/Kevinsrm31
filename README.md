@@ -19,6 +19,7 @@ Ingeniero Industrial y Civil, con experiencia en operaciones, mantenimiento, ges
 **Certificaciones**
 - Fundamentos de Git en Cloud
 - Python (básico–intermedio)
+- Python para Todos
 - SQL Para Todos (Google Cloud)
 - Apache Spark Fundamentals
 - Fundamentos de consumo y construcción de APIs con Python
