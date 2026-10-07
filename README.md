@@ -8,6 +8,7 @@ Ingeniero Industrial y Civil, con experiencia en operaciones, mantenimiento, ges
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -19,6 +20,7 @@ Ingeniero Industrial y Civil, con experiencia en operaciones, mantenimiento, ges
 - Python (básico–intermedio)
 - SQL Para Todos (Google Cloud)
 - Apache Spark Fundamentals
+- Fundamentos de consumo y construcción de APIs con Python
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevinsrm31&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinsrm31&layout=compact&theme=tokyonight&hide_border=true)
