@@ -20,6 +20,7 @@ Ingeniero Industrial y Civil, con experiencia en operaciones, mantenimiento, ges
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 **Certificaciones**
+- Programa AI Data Engineer (Datapath, 105 horas) · 🥇 Primer lugar del programa
 - Fundamentos de Git en Cloud
 - Python para Todos
 - SQL Para Todos (Google Cloud)
